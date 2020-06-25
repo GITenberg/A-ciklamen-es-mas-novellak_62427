@@ -1,0 +1,33 @@
+_repo: A-ciklamen-es-mas-novellak_62427
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Biró, Lajos
+    alias: Biro, Lajos
+    birthdate: 1880
+    deathdate: 1948
+    gutenberg_agent_id: '51735'
+    url: http://www.gutenberg.org/2009/agents/51735
+    wikipedia:
+    - https://hu.wikipedia.org/wiki/B%C3%ADr%C3%B3_Lajos_(%C3%ADr%C3%B3)
+    - https://en.wikipedia.org/wiki/Lajos_B%C3%ADr%C3%B3
+description: ''
+gutenberg_issued: '2020-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62427'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian fiction -- 20th century'
+- !lcsh 'Short stories, Hungarian'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: 'A ciklámen -- Regina kisasszony -- A király -- A gyáva ember napjai
+  -- A tenger -- A szerelem komédiái: Kiábrándulás. Csalás -- Az Ábel-család: Az Ábel-család.
+  Daisyke. Ebédtől vacsoráig. Ábel István -- Babilon lánya: Az első. Szakítás. Játék
+  -- Marosváriak: Dernay Ágota. A báróné. Lonci. A Csetneky-lányok. Marosváriak.'
+title: A ciklámen és más novellák
+url: http://www.gutenberg.org/ebooks/62427
